@@ -67,6 +67,7 @@ a {
 } .tagline p {
     font-family: 'Courier New', Courier, monospace;
     text-transform: uppercase;
+    text-align: center;
     font-size: 1.5em;
     color: #fff;
     text-shadow: #555 1px 1px 1px;
